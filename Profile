@@ -1,0 +1,6 @@
+I am a passionate **Software Engineer** with experience in designing, developing, and leading innovative software projects.  
+I enjoy solving real-world problems through technology and have successfully led and contributed to several projects, including:
+
+- 🚀 **School Management System** – A complete platform for schools to manage academics, administration, and communication.  
+- 🕒 **Timesheet Module for Business Central** – Streamlined employee time tracking and reporting.  
+- 🏫 **Software Training Center (Rural Kenya)** – An initiative to provide digital skills and empower youth in rural communities.  
